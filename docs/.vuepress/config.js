@@ -1,6 +1,7 @@
 module.exports = {
     title: 'GUANfafa 文档',
     description: 'GUANfafa...',
+    base: '/docs/',
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
